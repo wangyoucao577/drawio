@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-17T08:42:08.268Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="-8IVwe2zFwDOB_U4iiyH" version="12.4.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-17T08:42:22.073Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="1TzmcUAZd7Qxw4kKPcwL" version="12.4.2" type="github" pages="1">
   <diagram id="peSgpNI3BcgGdvSU9K40" name="Page-1">
     <mxGraphModel dx="2066" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -240,12 +240,6 @@
         </mxCell>
         <mxCell id="aOTyq8T4zzu366zdv131-7" value="&lt;div style=&quot;text-align: left&quot;&gt;1 bit &lt;b&gt;Forward&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;1 bit &lt;b&gt;Backward&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;1 bit &lt;b&gt;IsSplit&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;1 bit &lt;b&gt;Roundabout&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;1 bit &lt;b&gt;Circular&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;1 bit &lt;b&gt;Startpoint&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;1 bit&amp;nbsp;&lt;/span&gt;&lt;b&gt;Restricted&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;(still 1 bit reserved)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1199.5" y="110" width="151.5" height="130" as="geometry"/>
-        </mxCell>
-        <mxCell id="aOTyq8T4zzu366zdv131-14" value="" style="endArrow=none;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="810" as="sourcePoint"/>
-            <mxPoint x="70" y="760" as="targetPoint"/>
-          </mxGeometry>
         </mxCell>
         <mxCell id="aOTyq8T4zzu366zdv131-16" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2 bits&amp;nbsp;&lt;/span&gt;&lt;b&gt;HighwayTurnClassification&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;2 bits&amp;nbsp;&lt;/span&gt;&lt;b&gt;AccessTurnClassification&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1520" y="240" width="240.5" height="30" as="geometry"/>
